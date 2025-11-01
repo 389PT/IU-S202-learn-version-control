@@ -1,4 +1,8 @@
-[
+[{"common_name": "Indomitable Lion",
+  "scientific_name": "Panthera leo",
+  "habitat": "Savannas and grasslands of Africa",
+  "description": "Known as the national symbol of strength and courage, the Indomitable Lion represents resilience and pride across African cultures."
+},
   {
     "commonName": "African Elephant",
     "scientificName": "Loxodonta africana",
